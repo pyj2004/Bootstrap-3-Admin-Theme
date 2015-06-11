@@ -231,8 +231,7 @@ table > tbody > tr > td.actions .btn{
     box-shadow: 0 1px 4px rgba(0,0,0,.065);
 }
 .bootstrap-admin-navbar-side > li > a {
-    display: block;
-    width: 190px\9;
+    display: block; 
     margin: 0 0 -1px;
     padding: 8px 14px;
     border: 1px solid #e5e5e5;
